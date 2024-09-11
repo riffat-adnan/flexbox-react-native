@@ -62,15 +62,19 @@ For running on a physical device or emulator, ensure you have the proper environ
 
 ## 📸 Screenshots
 
-Below are examples of the layouts created using Flexbox in this project. Add your screenshots in the appropriate file paths.
+Below are examples of the layouts created using Flexbox in this project. Replace the placeholders with the actual screenshots.
 
-| Flexbox Showcase                            | Instagram Home Page Layout                  |
-|---------------------------------------------|---------------------------------------------|
-| ![Flexbox Showcase]() | ![Instagram Home Page](./screenshots/instagram1.png) |
+| Flexbox Showcase | Instagram Home Page Layout |
+|------------------|----------------------------|
+| ![Flexbox Showcase](https://github.com/user-attachments/assets/b8014f12-211e-45ed-bfe3-64dafb69ee97) | ![Instagram Home Page](https://github.com/user-attachments/assets/9e0eaab8-5da9-4246-8501-a7cf0099a6d7) |
 
-| Nested Flexbox Layout                       |                                               |
-|---------------------------------------------|-----------------------------------------------|
-| ![Nested Flexbox Layout](./screenshots/nested1.png) |                                               |
+| Nested Flexbox Layout | Flexbox Showcase |
+|-----------------------|------------------|
+| ![Nested Flexbox Layout](https://github.com/user-attachments/assets/5d52161f-90cf-4ccc-a3d0-5cfc38f20395) | ![Flexbox Showcase](https://github.com/user-attachments/assets/b8014f12-211e-45ed-bfe3-64dafb69ee97) |
+
+---
+
+This format will display two screenshots side by side in two rows. You can now copy this into your README file.
 
 ---
 
