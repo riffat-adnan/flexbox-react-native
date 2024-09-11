@@ -74,10 +74,6 @@ Below are examples of the layouts created using Flexbox in this project. Replace
 
 ---
 
-This format will display two screenshots side by side in two rows. You can now copy this into your README file.
-
----
-
 ## 🔍 Detailed File Descriptions
 
 ### 1. **FlexboxShowcase.js**
